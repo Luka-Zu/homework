@@ -1,0 +1,27 @@
+.form-group {
+    width: 40vw;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.form-control {
+    margin: 14px 0px;
+}
+
+.charachters-cards-area {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.page {
+    width: 60vw;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.form-group-2 {
+    
+    display: flex;
+    justify-content: space-between;
+}
